@@ -1,10 +1,10 @@
-# 📁 Threat Analysis Overview
+#  Threat Analysis Overview
 
 This folder contains curated threat intelligence outputs from the TPOT Honeypot deployed on GCP. Each file represents an insight generated from the collected malicious activity targeting the honeypot.
 
 ---
 
-## 📊 CSV Reports
+##  CSV Reports
 
 ### `Attacker AS_N - Top 10.csv`
 Lists the top 10 autonomous systems (ASNs) from which malicious traffic originated. Useful for identifying ISP-level threat clustering and botnet infrastructure.
@@ -29,7 +29,7 @@ Visualization data of attempted usernames against Cowrie. Reveals common targets
 
 ---
 
-## 🖼️ Screenshots & Visualizations
+##  Screenshots & Visualizations
 
 ### `ET MALWARE log results.png`
 Snapshot of Suricata logs filtered by the "ET MALWARE" signature category. Highlights known malware communication or payload delivery patterns.
@@ -42,7 +42,7 @@ Dashboard or summary visualization of honeypot dataa. Useful for showcasing high
 
 ---
 
-## 🧠 Usage
+##  Usage
 
 These files are referenced in the main project documentation and are intended to:
 
