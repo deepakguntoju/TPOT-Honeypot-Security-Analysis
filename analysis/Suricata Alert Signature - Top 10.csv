@@ -1,0 +1,11 @@
+﻿ID,Description,Count
+2200003,"SURICATA IPv4 truncated packet","32,316"
+2100560,"GPL INFO VNC server response","6,399"
+2210048,"SURICATA STREAM reassembly sequence GAP -- missing packet(s)","3,794"
+2047703,"ET INFO External IP Address Lookup Domain (ipify .org) in TLS SNI","2,709"
+2001978,"ET INFO SSH session in progress on Expected Port","1,781"
+2100384,"GPL ICMP PING",984
+2260001,"SURICATA Applayer Wrong direction first Data",442
+2500022,"ET COMPROMISED Known Compromised or Hostile Host Traffic group 12",288
+2400056,"ET DROP Spamhaus DROP Listed Traffic Inbound group 57",279
+2024897,"ET USER_AGENTS Go HTTP Client User-Agent",278
