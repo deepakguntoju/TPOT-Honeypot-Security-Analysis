@@ -84,12 +84,12 @@ This project involves the deployment and operation of the [TPOT](https://github.
 
 All screenshots are available in the [`/images/`](./images) directory:
 
-- TPOT Dashboard (tpot-dashboard.png)
-- Suricata Top Signatures (suricata-alerts.png)
-- Cowrie Command Logs (cowrie-ssh.png)
-- Dionaea Malware Attempts (dionaea-malware.png)
-- Kibana Dashboards (kibana-visualization.png)
-- MITRE ATT&CK Mapping (mitre-attack-correlation.png)
+- TPOT Dashboard (tpot*.png)
+- Suricata Top Signatures (suricata*.png)
+- Cowrie Command Logs (cowrie*.png)
+- Dionaea Malware Attempts (dionaea*.png)
+- Kibana Dashboards (kibana*.png)
+
 
 ---
 
